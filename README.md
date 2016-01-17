@@ -18,6 +18,20 @@ i think it's an AIO of all my tools that i published and the ones that still on 
 	  | | | . ` / __|/ __/ _` | '_ \
 	  | | | |\  \__ \ (_| (_| | | | |
 	  \_/ \_| \_/___/\___\__,_|_| |_| v1.2
+	  
+	[1]  Get all websites
+	[2]  Get joomla websites
+	[3]  Get wordpress websites
+	[4]  Find control panel
+	[5]  Find zip files
+	[6]  Find sql files
+	[7]  Find upload files
+	[8]  Get server users
+	[9]  Scan from SQL injection
+	[10] Scan ports (range of ports)
+	[11] Scan ports (common ports  )
+	[12] Get server banner
+	[13] Bypass Cloudflare
 
 Usage :
      python tnscan.py 127.0.0.1"
